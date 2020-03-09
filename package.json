@@ -3,7 +3,7 @@
 	"displayName": "Format Chinese Words In Revit IFC Files",
 	"publisher": "wenpan",
 	"description": "First",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
