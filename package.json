@@ -18,7 +18,7 @@
 		"commands": [
 			{
 				"command": "extension.formatchinesewords",
-				"title": "Format Chinese Words"
+				"title": "Format Chinese Words in Revit IFC"
 			}
 		]
 	},
