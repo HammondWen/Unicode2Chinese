@@ -3,7 +3,7 @@
 	"displayName": "Format Chinese Words In Revit IFC Files",
 	"publisher": "wenpan",
 	"description": "This extension is to format chinese words in IFC files which is exported from Revit.",
-	"version": "1.0.6",
+	"version": "1.0.8",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
