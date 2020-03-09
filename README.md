@@ -6,4 +6,8 @@ For example
 
 Note that currently only characters like \2\[0-9a-zA-Z]*\X0\ can be converted.
 
+
+#How to Use
+
+Run the _Format Chinese Words in Revit IFC_ command from the Command Palette(Ctrl+Shift+P)
 **Enjoy!**
