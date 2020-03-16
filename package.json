@@ -11,13 +11,13 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.formatchinesewords"
+		"onCommand:extension.unicode2chinese"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.formatchinesewords",
+				"command": "extension.unicode2chinese",
 				"title": "Convert Unicode to Chinese"
 			}
 		]
