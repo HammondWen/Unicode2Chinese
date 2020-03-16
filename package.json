@@ -1,8 +1,8 @@
 {
-	"name": "formatchinesewords",
-	"displayName": "Format Chinese Words In Revit IFC Files",
+	"name": "unicode2chinese",
+	"displayName": "Convert unicode to Chinese",
 	"publisher": "wenpan",
-	"description": "This extension is to format chinese words in IFC files which is exported from Revit.",
+	"description": "This extension is to Convert unicode to Chinese in some specific files.",
 	"version": "1.0.10",
 	"engines": {
 		"vscode": "^1.42.0"
@@ -18,7 +18,7 @@
 		"commands": [
 			{
 				"command": "extension.formatchinesewords",
-				"title": "Format Chinese Words in Revit IFC"
+				"title": "Convert Unicode to Chinese"
 			}
 		]
 	},
