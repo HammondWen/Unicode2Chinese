@@ -3,7 +3,7 @@
 	"displayName": "Convert unicode to Chinese",
 	"publisher": "wenpan",
 	"description": "This extension is to Convert unicode to Chinese in some specific files.",
-	"version": "1.0.10",
+	"version": "2.0.1",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
